@@ -2,6 +2,7 @@ import json
 import psycopg2
 import requests as requests
 
+from config import config
 
 
 
